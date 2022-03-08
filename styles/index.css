@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: noto-sans, "sans-serif";
+}
+
+body {
+    background: #8f3838;
+    
+}
+
+main {
+    overflow: hidden;
+}
+
+.nice{
+    font-size: 2rem;
+    
+}
