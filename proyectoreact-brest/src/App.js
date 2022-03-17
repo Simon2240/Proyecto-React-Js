@@ -1,9 +1,12 @@
 import './App.css';
+import Icon from './components/CartWidget';
 import Navbar from './components/Navbar';
 function App() {
   return (
     <div className="App">
-      <Navbar/>
+      <Navbar>
+        <Icon/>
+      </Navbar>
     </div>
   );
 }

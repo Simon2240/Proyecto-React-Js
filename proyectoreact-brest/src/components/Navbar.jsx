@@ -1,4 +1,5 @@
 import logo from '../logo.svg'
+import Icon from './CartWidget';
 const Navbar = () =>{
     return(
         <nav className="navbar">
@@ -12,6 +13,7 @@ const Navbar = () =>{
                     <li><a href="#">Help</a></li>
                 </ul>
             </div>
+            <Icon/>
         </nav>
     );
 }
