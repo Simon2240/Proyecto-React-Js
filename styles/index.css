@@ -6,8 +6,9 @@
 }
 
 body {
-    background: #8f3838;
-    
+    background: #c92b2b;
+    background-image: url("../imagenesReact/fondo1.jpg");
+    padding: 20px;
 }
 
 main {
